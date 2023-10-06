@@ -1,2 +1,2 @@
-const teamNames = ["Matthew Brown"];
+const teamNames = ["Matthew Brown", "Sheldon Uchytil"];
 console.log("Team Names:", teamNames);
